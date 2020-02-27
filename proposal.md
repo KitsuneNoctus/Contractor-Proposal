@@ -20,4 +20,6 @@
     - Limiting permissions based on if Teacher or student
     ###### Advanced:
     - Controlling what classes people see based on what classes they are signed up for.
-    - ...
+    - Good Looks (lol)
+    - Change log
+        - Keeps track of what changes have been made to the logs and when
